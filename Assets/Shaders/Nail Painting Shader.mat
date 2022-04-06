@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Nail Painting Shader
+  m_Shader: {fileID: -6465566751694194690, guid: b330f63c2e7b7a54dbfeb8c41a33fb82, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 1
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_0398ce3ccaa048bd90f8eafbbb97f8e6:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_37b65d7fe00545b984552e8258d396c5:
+        m_Texture: {fileID: 2800000, guid: 07999a63d2600644ba43113311f825d0, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_0a89234a78ba41b0942f4a1cb30493ec: 1
+    - Vector1_286f4a8ae81342799bb806e754aa5585: -1
+    - Vector1_99c0b906149e4c5badcc475476aec9fa: -1
+    m_Colors:
+    - Color_399a2c04611c475a9c64eda2abdb3b3a: {r: 0.9245283, g: 0.9245283, b: 0.9245283, a: 0}
+    - Color_638916222a964728819f439e2b0e0299: {r: 1, g: 1, b: 1, a: 1}
+    - Vector2_1: {r: 1, g: 1, b: 0, a: 0}
+    - Vector2_2: {r: 0, g: 0, b: 0, a: 0}
+    - Vector2_5908924405954ecd98ed71b2f2b5e69e: {r: 1, g: 1, b: 0, a: 0}
+    - Vector2_8d06ea34fd7b4f0a835207c4fdb4d998: {r: 0, g: 0, b: 0, a: 0}
+  m_BuildTextureStacks: []
